@@ -1,0 +1,142 @@
+
+
+.H1{
+    text-align: center;
+    
+}
+
+.btton{
+    background-color: darkred;
+    color: white;
+    border-radius: 10px 10px;
+    display: inline-block;
+    cursor: pointer;
+    padding-top:    20px;
+    padding-bottom: 20px;
+    width: 140px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+}
+
+.btton:hover{
+    background-color: darkblue;
+}
+
+.btton2{
+    background-color: darkred;
+    color: white;
+    border-radius: 10px 10px;
+    display: inline-block;
+    cursor: pointer;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 140px;
+    margin-left: 122.5ch;
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.btton2:hover{
+    background-color: darkblue;
+}
+
+
+
+.tombol1{
+    background-color: darkred;
+    color: white;
+    display: inline-block;
+    border-radius: 10px;
+    cursor: pointer;
+    text-decoration: none;
+    margin-top: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 140px;
+    font-size: large;
+}
+
+.tombol1:hover{
+    background-color: darkblue;
+}
+
+li{
+    list-style: none;
+}
+
+
+
+
+.image2{
+    width: 400px;
+    height: 300px;
+    border-radius: 15px;
+    margin-top: 2px;
+    margin-bottom: 50px;
+    margin-right: 20px;
+    margin-left: 65px;
+}
+
+.image3{
+    width: 400px;
+    height: 300px;
+    border-radius: 15px;
+    margin-top: 2px;
+    margin-bottom: 50px;
+    margin-left: 555px;
+}
+
+.text22{
+    text-align: center;
+}
+
+
+
+
+
+.image{
+    width: 400px;
+    height: 300px;
+    border-radius: 15px;
+    margin-top: -20px;
+}
+
+.li1{
+    margin-top: 20px;
+}
+
+
+.li2{
+    float: right;
+    margin-top: -490px;
+}
+
+.li3{
+    float: right;
+    margin-top: -510px;
+}
+
+.li4{
+    float: right;
+    margin-top: -440px;
+}
+
+.li5{
+    float: right;
+    margin-top: -475px;
+}
+
+
+
+.text100{
+    text-align: center;
+    margin: 50px 0px 20px 0px;
+}
+
+
+
+
+
+
+
